@@ -18,6 +18,28 @@ Don't forget to *like, subscribe, and share your thoughts in the comments below!
 
 ---
 
+- [Claytronics: The MIND-BLOWING Science of Shape-Shifting Robots](#claytronics-the-mind-blowing-science-of-shape-shifting-robots)
+  - [Securing Programmable Matter Systems](#securing-programmable-matter-systems)
+  - [Equitable Access to Programmable Matter](#equitable-access-to-programmable-matter)
+  - [Environmental Impact of Programmable Matter](#environmental-impact-of-programmable-matter)
+  - [Programmable Matter and Human Augmentation](#programmable-matter-and-human-augmentation)
+  - [Programmable Matter and Art](#programmable-matter-and-art)
+  - [Ethical and Societal Implications of Programmable Matter](#ethical-and-societal-implications-of-programmable-matter)
+  - [Programmable Matter: Challenges and Opportunities](#programmable-matter-challenges-and-opportunities)
+  - [Programmable Matter: Biology, AI, and Regulation](#programmable-matter-biology-ai-and-regulation)
+  - [Programmable Matter: Ethical, Technical, and Societal Implications](#programmable-matter-ethical-technical-and-societal-implications)
+  - [Programmable Matter: A Captivating Introduction](#programmable-matter-a-captivating-introduction)
+  - [Programmable Matter: A Captivating Introduction](#programmable-matter-a-captivating-introduction-1)
+  - [Programmable Matter: Key Actors and Contributors](#programmable-matter-key-actors-and-contributors)
+  - [Programmable Matter: Future Applications and Challenges](#programmable-matter-future-applications-and-challenges)
+  - [Preparing for Programmable Matter](#preparing-for-programmable-matter)
+  - [Programmable Matter: Benefits, Risks, and Future](#programmable-matter-benefits-risks-and-future)
+  - [Programmable Matter: Advantages and Disadvantages](#programmable-matter-advantages-and-disadvantages)
+  - [Programmable Matter: Design, Applications, and Risks](#programmable-matter-design-applications-and-risks)
+
+
+---
+
 ## Securing Programmable Matter Systems
 
 Ensuring the security of programmable matter systems is a paramount concern, given their potential to revolutionize various sectors and become deeply embedded in critical infrastructure. The very features that make programmable matter so versatile - sensing, computation, and bonding abilities - also present potential vulnerabilities that malicious actors could exploit.
